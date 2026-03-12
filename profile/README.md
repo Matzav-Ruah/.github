@@ -10,5 +10,7 @@
     <a href="https://github.com/Matzav-Ruah/Backend">Backend repository</a> |
     <a href="https://github.com/Matzav-Ruah/Frontend">Frontend repository</a>
   </p>
-</div>
 
+[![ESLint](https://github.com/Matzav-Ruah/Frontend/actions/workflows/linters_eslint.yml/badge.svg)](https://github.com/Matzav-Ruah/Frontend/actions/workflows/linters_eslint.yml)
+  
+</div>
